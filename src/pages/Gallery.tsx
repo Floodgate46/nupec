@@ -6,18 +6,18 @@ import { X, ZoomIn } from "lucide-react";
 import patternBg from "@/assets/pattern-bg.jpg";
 
 // Gallery images
-import ceremonyAwards from "@/assets/gallery/ceremony-awards.jpg";
-import communityOutreach from "@/assets/gallery/community-outreach.jpg";
-import trainingExercise from "@/assets/gallery/training-exercise.jpg";
-import mediationMeeting from "@/assets/gallery/mediation-meeting.jpg";
-import paradeMarch from "@/assets/gallery/parade-march.jpg";
-import youthWorkshop from "@/assets/gallery/youth-workshop.jpg";
-import officialHandshake from "@/assets/gallery/official-handshake.jpg";
-import humanitarianAid from "@/assets/gallery/humanitarian-aid.jpg";
-import corpsCeremony from "@/assets/corps-ceremony.jpg";
-import handsUnity from "@/assets/hands-unity.jpg";
-import peacekeepersCommunity from "@/assets/peacekeepers-community.jpg";
-import miningSite from "@/assets/mining-site.jpg";
+import cgAndOsibanja from "/cg-and-osibanja.jpg";
+import cg from "/cg.jpg";
+import cgAndMember from "/cg-and-member.jpg";
+import batch from "/batch.jpg";
+import mg3196 from "/_MG_3196 (1).jpg";
+import mg3193 from "/_MG_3193 (1).jpg";
+import mg3168c from "/_MG_3168 (1)c.jpg";
+import mg3166c from "/_MG_3166 (1)c.jpg";
+import mg3166 from "/_MG_3166 (1).jpg";
+import mg3165 from "/_MG_3165 (1).jpg";
+import mg3163 from "/_MG_3163 (1).jpg";
+import mg3160 from "/_MG_3160 (1).jpg";
 
 const categories = [
   { id: "all", name: "All Photos" },
